@@ -1,0 +1,9 @@
+Pillow==10.3.0
+pytesseract==0.3.10
+qrcode==7.4.2
+matplotlib==3.8.4
+python-dotenv==1.0.1
+requests==2.31.0
+SpeechRecognition==3.10.1
+numpy==1.26.4  # Required by matplotlib
+pyaudio==0.2.14  # Required for microphone input (voice recognition)
