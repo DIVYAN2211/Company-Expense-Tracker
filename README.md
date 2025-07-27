@@ -5,8 +5,9 @@ A desktop application to track and analyze company expenses using OCR, voice com
 ## Features
 
 - Upload and scan bills using OCR (Tesseract)
-- Add/view expenses using voice commands
+- Add/view expenses using voice commands 
 - View monthly and category-wise charts
+- Generate and save QR codes for any expense entry
 - Get AI-powered summaries using Groq API
 - CEO Dashboard with key insights
 
@@ -18,6 +19,7 @@ A desktop application to track and analyze company expenses using OCR, voice com
 - matplotlib for graphs
 - Groq API for AI
 - dotenv for API key management
+- qrcode for generating QR codes
   
 ## How to Run
 
